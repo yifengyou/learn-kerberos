@@ -651,6 +651,8 @@ kadmin:
 ## 参考
 
 * <https://cloud.tencent.com/developer/article/1183342>
+* <http://web.mit.edu/kerberos/krb5-latest/doc/admin/conf_files/krb5_conf.html?highlight=rdns>
+* <https://www.haoyizebo.com/posts/58fc41de/>
 
 
 
