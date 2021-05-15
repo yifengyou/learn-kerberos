@@ -1,6 +1,9 @@
 # kerberos协议及工具学习
 
+![20210515_201038_62](image/20210515_201038_62.png)
+
 ![20210515_155135_87](image/20210515_155135_87.png)
+
 
 Kerberos（/ˈkərbərəs/）是一种由MIT（麻省理工大学）提出的一种网络身份验证协议。它旨在通过使用密钥加密技术为客户端/服务器应用程序提供强身份验证。
 
@@ -23,9 +26,9 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 相关站点
 
+* 官网: <https://web.mit.edu/kerberos/>
+* wiki: <https://en.wikipedia.org/wiki/Kerberos_(protocol)>
 
-
----
 
 ## 目录
 
@@ -37,8 +40,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 * [keberos部署](docs/keberos部署.md)
     * [Fedora34部署keberos server](docs/keberos部署/Fedora34.md)
 
-
----
 
 
 ## 经典图示
