@@ -34,11 +34,11 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 
 
-* [keberos协议](docs/keberos协议.md)
-    * [白话文举栗子讲故事入门介绍](docs/keberos协议/白话文举栗子讲故事入门介绍.md)
-    * [红帽文档之kerberos](docs/keberos协议/红帽文档之kerberos.md)
-* [keberos部署](docs/keberos部署.md)
-    * [Fedora34部署keberos server](docs/keberos部署/Fedora34.md)
+* [kerberos协议](docs/kerberos协议.md)
+    * [白话文举栗子讲故事入门介绍](docs/kerberos协议/白话文举栗子讲故事入门介绍.md)
+    * [红帽文档之kerberos](docs/kerberos协议/红帽文档之kerberos.md)
+* [kerberos部署](docs/kerberos部署.md)
+    * [Fedora34部署kerberos server](docs/kerberos部署/Fedora34.md)
 
 
 
